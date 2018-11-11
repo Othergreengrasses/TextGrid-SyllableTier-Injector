@@ -62,5 +62,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Ackowledgements
 [CMU Dict](https://webdocs.cs.ualberta.ca/~kondrak/cmudict.html) - Susan Bartlett, Grzegorz Kondrak and Colin Cherry. On the Syllabification of Phonemes. NAACL-HLT 2009
-[TextGrid]()
+[TextGrid](https://github.com/kylebgorman/textgrid) - Kyle Gorman
 
